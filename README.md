@@ -1,4 +1,4 @@
-# HiCnUnicom
+# HiCn Unicom
 
 ## 使用方法
 
